@@ -8,6 +8,7 @@ class MusicLibraryController
   
   def call
     puts "Welcome"
+    input = ""
     input = gets.chomp 
     
   end
